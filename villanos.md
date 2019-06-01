@@ -1,0 +1,2 @@
+Dr. Doom
+Cráneo Rojo
