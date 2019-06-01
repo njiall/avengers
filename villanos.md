@@ -1,2 +1,3 @@
-1. Dr. Doom
-2. Cráneo Rojo
+* Dr. Doom
+* Cráneo Rojo
+* Capitán America
