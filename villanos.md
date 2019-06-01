@@ -1,2 +1,2 @@
-Dr. Doom
-Cráneo Rojo
+1. Dr. Doom
+2. Cráneo Rojo
